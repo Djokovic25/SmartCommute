@@ -1,4 +1,3 @@
-# SmartCommute
 # 🚇 SmartCommute – Metro Navigation System
 
 SmartCommute is a C++ console-based metro route planner designed to simulate core metro app features using Data Structures and Algorithms. It supports shortest path finding, route history, and dynamic station blocking for maintenance.
